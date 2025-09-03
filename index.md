@@ -1,3 +1,7 @@
+#Chibin Loo's First CS 193 Homework
+- I like that I'm learning about things that I never knew about
+- Things such as terminal, text editors, and github will help me in my future
+- I like that CS 193 is student taught and run showing that they care for the underclassmen
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
